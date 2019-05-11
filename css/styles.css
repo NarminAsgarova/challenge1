@@ -1,0 +1,242 @@
+body {
+  background-color: #f7f9fd;
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #808d99;
+  line-height: 1.5;
+  font-weight: 400;
+}
+h3 {
+  font-family: 'Poppins', sans-serif;
+  color: #00252e;
+  font-weight: 700;
+  font-size: 1.65rem;
+}
+h4 {
+  font-family: 'Poppins', sans-serif;
+  color: #00252e;
+  font-weight: 600;
+  font-size: 1.3rem;
+}
+.top {
+  margin: auto;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  padding-top: 1000px;
+  padding-bottom: 300px;
+}
+.logo-top {
+  width: 230px;
+  height: 35px;
+  display: inline-block;
+  position: absolute;
+  left: 60px;
+  top: 60px;
+}
+.purple-triangle {
+  width: 1300px;
+  height: 1000px;
+  border-radius: 70px;
+  background-image: linear-gradient(to right, #ff52bf, #9a52ff);
+  display: inline-block;
+  transform: rotate(45deg);
+  position: absolute;
+  bottom: 680px;
+  left: 580px;
+}
+.grey-triangle {
+  width: 800px;
+  height: 1100px;
+  border-radius: 90px;
+  background-color: #ffffff;
+  display: inline-block;
+  transform: rotate(60deg);
+  position: absolute;
+  bottom: 70px;
+  right: 370px;
+}
+.TryItFree {
+  display: inline-block;
+  position: absolute;
+  right: 60px;
+  top: 60px;
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  color: #9a52ff;
+  font-size: 11px;
+  background: #f7f9fd;
+  padding: 12px 50px 12px 50px;
+  text-decoration: none;
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.TryItFree:hover {
+  background: #9a52ff;
+  color: #f7f9fd;
+  text-decoration: none;
+}
+.intro {
+  width: 60%;
+  margin: auto;
+  display: inline-block;
+  position: absolute;
+  top: 200px;
+  left: 280px;
+}
+.display-img {
+  width: 80%;
+  margin-bottom: 40px;
+}
+.intro-head {
+  width: 70%;
+  margin: auto auto 20px auto;
+}
+.intro-text {
+  width: 75%;
+  margin: auto auto 25px auto;
+  font-size: 1.1rem;
+}
+.about {
+  margin: auto auto 200px auto;
+}
+.users-img {
+  width: 100%;
+}
+.about-parts {
+  text-align: left;
+  margin: 40px auto;
+  width: 90%;
+}
+.about-heads {
+  margin-bottom: 10px;
+}
+.about-text{
+  margin: auto;
+}
+.closing {
+  background-color: #ffffff;
+  width: 50%;
+  margin: 200px auto 250px auto;
+  padding-top: 60px;
+  padding-bottom: 90px;
+  box-shadow: 0 7px 30px 2px rgba(128,141,153,0.3);
+  border-radius: 3px;
+}
+.closing-head {
+  margin: auto auto 20px auto;
+  font-size: 1.75rem;
+}
+.closing-text {
+  margin: auto auto 40px auto;
+  font-size: 1.1rem;
+}
+.GetStarted {
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+  font-family: 'Open Sans', sans-serif;
+  color: #f7f9fd;
+  font-size: 11px;
+  background: #ff52bf;
+  padding: 15px 50px 15px 50px;
+  text-decoration: none;
+}
+.GetStarted:hover {
+  background: #9a52ff;
+  text-decoration: none;
+}
+.bottom {
+  background-color: #00252e;
+  height: 400px;
+  position: relative;
+  color: #f7f9fd;
+}
+.facebook-logo {
+  width: 35px;
+  height: 35px;
+  margin-right: 20px;
+}
+.insta-logo {
+  width: 35px;
+  height: 35px;
+  margin-right: 20px;
+}
+.twitter-logo {
+  width: 35px;
+  height: 35px;
+}
+.copyright {
+  font-size: 0.9rem;
+  margin-top: 30px;
+}
+.left-edge {
+  text-align: left;
+  position: absolute;
+  top: 95px;
+  left: 60px;
+}
+.col1 {
+  text-align: left;
+  line-height: 2.5;
+  margin: auto;
+  position: absolute;
+  top: 85px;
+  left: 500px;
+}
+.col2 {
+  text-align: left;
+  line-height: 2.5;
+  margin: auto;
+  position: absolute;
+  top: 85px;
+  left: 730px;
+}
+.subscr {
+  text-align: left;
+  width: 330px;
+  margin: auto;
+  position: absolute;
+  top: 95px;
+  left: 948px;
+  padding-bottom: 100px;
+}
+h5 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  font-size: 1.1rem;
+  margin-top: auto;
+  margin-bottom: 20px;
+}
+.subscr-text {
+  font-size: 0.8rem;
+  line-height: 1.5;
+  margin: auto auto 15px auto;
+}
+input {
+  width: 310px;
+  height: 35px;
+  border-radius: 5px;
+  border-width: 0;
+  margin: auto auto 30px auto;
+}
+.Subscribe {
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+  font-family: 'Open Sans', sans-serif;
+  color: #f7f9fd;
+  font-size: 15px;
+  background: #ff52bf;
+  padding: 12px 50px 12px 50px;
+  text-decoration: none;
+  position: relative;
+  left: 142px;
+}
+.Subscribe:hover {
+  background: #9a52ff;
+  text-decoration: none;
+}
